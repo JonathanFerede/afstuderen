@@ -1,0 +1,23 @@
+# Table of contents
+
+* [Introductie](README.md)
+* [Leeswijzer](leeswijzer/README.md)
+  * [Resultaten](leeswijzer/resultaten.md)
+  * [Reflectie](leeswijzer/reflectie.md)
+* [Adviesrapport](adviesrapport.md)
+* [Prototypes](prototypes/README.md)
+  * [1. Sortable form](prototypes/1.-sortable-form.md)
+  * [2. livesearch](prototypes/2.-livesearch.md)
+  * [3. Selection methods](prototypes/3.-selection-methods.md)
+  * [4. Sortable and selectable](prototypes/4.-sortable-and-selectable.md)
+  * [5. Sortable and selectable and actions](prototypes/5.-sortable-and-selectable-and-actions.md)
+  * [6. Paste csv](prototypes/6.-paste-csv.md)
+  * [7. Bulkbewerken](prototypes/7.-bulkbewerken.md)
+  * [8. Producten\_koppelen](prototypes/8.-producten_koppelen.md)
+  * [9. Bulk bewerken met variabelen](prototypes/9.-bulk-bewerken-met-variabelen.md)
+  * [10. Presets](prototypes/10.-presets.md)
+  * [11. Fieldset\_idee](prototypes/11.-fieldset_idee.md)
+  * [12. Bulkbewerken met presets](prototypes/12.-bulkbewerken-met-presets.md)
+* [Bijlages](bijlages.md)
+* [Untitled](untitled.md)
+
