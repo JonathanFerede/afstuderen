@@ -16,7 +16,7 @@ Na de terugkomdag in week 10 moesten veel oplossingen nog voorzien worden van ee
 
 > Kennis en inzicht met juiste breedte en diepte van de ICT life cycle fases: beheer, analyse, advies, ontwerp en realisatie
 
-In het [P.I.D.](https://jonathanferede.gitbook.io/afstudeerportfolio/assets/P.I.D._V6.pdf) wordt breedte en diepte van dit project beschreven. 
+In het [P.I.D.](https://github.com/JonathanFerede/afstuderen/blob/master/.gitbook/assets/p.i.d._v6.pdf) wordt breedte en diepte van dit project beschreven. 
 
 In de volgende documenten wordt geanalyseerd.   
 - Bewijs van dubbel werk.pdf  
