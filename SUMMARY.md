@@ -20,5 +20,4 @@
   * [12. Bulkbewerken met presets](prototypes/12.-bulkbewerken-met-presets.md)
 * [Bijlages](bijlages/README.md)
   * [bijlage 1](bijlages/bijlage-1.md)
-* [Untitled](untitled.md)
 
