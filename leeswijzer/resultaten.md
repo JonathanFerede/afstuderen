@@ -129,7 +129,7 @@ Resultaat: Ik ontdekte dat de manier van interactie zoals in Windows Verkenner e
 
 Links:
 
-### \*\*\*\*[**4. Sortable and selectable**](../prototypes/4.-sortable-and-selectable.md) ****
+### \*\*\*\*[**4. Sortable and selectable**]() ****
 
 Ik was benieuwd of het sorteren en selecteren te combineren was zonder dat er rare bugs ontstaan.
 
