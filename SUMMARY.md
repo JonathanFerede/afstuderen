@@ -13,9 +13,7 @@
   * [Bulk bewerken](prototypes/7.-bulkbewerken.md)
   * [Producten\_koppelen](prototypes/8.-producten_koppelen.md)
   * [Bulk bewerken met variabelen](prototypes/9.-bulk-bewerken-met-variabelen.md)
-  * [Presets](prototypes/10.-presets.md)
-  * [Fieldset\_idee](prototypes/11.-fieldset_idee.md)
-  * [Bulkbewerken met presets](prototypes/12.-bulkbewerken-met-presets.md)
+  * [Presets](prototypes/11.-fieldset_idee.md)
 * [Bijlages](bijlages/README.md)
   * [bijlage 1](bijlages/bijlage-1.md)
 
