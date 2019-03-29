@@ -1,6 +1,6 @@
 # Resultaten
 
-In het [adviesrapport](../adviesrapport.md) word gedemonstreerd a.d.h.v. visualities en werkende [prototypes](../prototypes/) hoe de huidige interface verbeterd kan worden. Elke verbetering heeft een onderbouwing, documentatie, prijs indicatie en voorspelling van de impact die het gaat maken. 
+In het [adviesrapport](../adviesrapport.md) wordt gedemonstreerd a.d.h.v. visualities en werkende [prototypes](../prototypes/) hoe de huidige interface verbeterd kan worden. Elke verbetering heeft een onderbouwing, documentatie, prijsindicatie en voorspelling van de impact die het gaat hebben. 
 
 ## **Oriëntatiefase** 
 
@@ -19,7 +19,7 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       <td style="text-align:left">Wat is Fatboy?</td>
       <td style="text-align:left">
         <p>(Veld onderzoek)</p>
-        <p>Semigestructureerd interview met e-commerce medewerker</p>
+        <p>Semi-gestructureerd interview met e-commerce medewerker</p>
       </td>
       <td style="text-align:left">Verkopen via de webshop is heel belangrijk omdat daar de meeste marge
         op gepakt wordt. De situatie met huidige backend is niet optimaal.</td>
@@ -28,7 +28,7 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       <td style="text-align:left">Hoe ziet de backend van Fatboy&apos;s webshop eruit?</td>
       <td style="text-align:left">
         <p>(Veld onderzoek)</p>
-        <p>Semigestructureerd interview met e-commerce medewerkers</p>
+        <p>Semi-gestructureerd interview met e-commerce medewerkers</p>
       </td>
       <td style="text-align:left">informatieflow chart</td>
     </tr>
@@ -51,10 +51,8 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       </td>
       <td style="text-align:left">
         <p></p>
-        <p>Het kost minimaal 359 kliks om een hoofdproduct met gekoppelde producten
-          in twee verschillende talen te lanceren. (Normaal gesproken worden er 8
-          vertalingen. Voor een nauwkeurigere inschatting verwijs ik naar <a href="https://jonathanferede.gitbook.io/afstudeerportfolio/~/edit/drafts/-LaVeAGwj0bkl1kM-hiN/leeswijzer">bewijs_van_dubbel_werk.pdf</a>)
-          (kliktest.pdf)(screencapture.mp4)</p>
+        <p>Het kost 1719 kliks om een gemiddeld product te lanceren. zie <a href="https://jonathanferede.gitbook.io/afstudeerportfolio/~/edit/drafts/-LaVeAGwj0bkl1kM-hiN/leeswijzer">bewijs_van_dubbel_werk.pdf</a> 
+        </p>
       </td>
     </tr>
     <tr>
@@ -65,13 +63,13 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       <td style="text-align:left">
         <p></p>
         <p>(Veldonderzoek)</p>
-        <p>Semi-gestructureerd interview met ecommercemedewerker (ecom bestaat uit
-          twee medewerkers)</p>
+        <p>Semi-gestructureerd interview met e-commerce medewerker (e-com. bestaat
+          uit twee medewerkers)</p>
       </td>
       <td style="text-align:left">
         <p></p>
-        <p>Hoe een product gelanceerd word. Welke velden wel/niet ingevuld worden.
-          Waar vertalingen vandaan komen. Wat vaak mis gaat en veel tijd kost. (Interview_ecommerce.pdf)</p>
+        <p>Hoe een product gelanceerd wordt. Welke velden wel/niet ingevuld worden.
+          Waar vertalingen vandaan komen. Wat vaak mis gaat en veel tijd kost. (Interview_e-commerce.pdf)</p>
       </td>
     </tr>
     <tr>
@@ -85,16 +83,19 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       </td>
       <td style="text-align:left">
         <p></p>
-        <p>Sales maakt heel weinig gebruik van backend. Functies die ze nodig hebben
-          werken naar verwachting. Hebben geen behoefte aan verandering of extra
-          features. (interview_sales.pdf)</p>
+        <p>De sales afdeling maakt minder gebruik van backend. Functies die ze nodig
+          hebben werken naar verwachting. Hebben geen behoefte aan verandering of
+          extra features. <em><b>interview_sales.pdf</b></em>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Hoe is de relatie tussen Fatboy en Kabisa</td>
       <td style="text-align:left">Semi-gestructureerd interview met e-commerce, CEO Fatboy en Kabisa medewerker</td>
       <td
-      style="text-align:left">Huidige situatie is zo erg nog niet.</td>
+      style="text-align:left">Het feit dat Kabisa veel zaken m.b.t. de backend altijd via Kabisa lopen
+        i.p.v. dat alles in eigen beheer is is juist gunstig. zie<em><b> Relatie_Fatboy_en_Kabisa.pdf</b></em>
+        </td>
     </tr>
   </tbody>
 </table>## Ontwerpfase 
@@ -109,7 +110,7 @@ De volgorde van ingevoerde invoervelden veranderen door drag ’n drop. Ik bedac
 
 ### [2. Livesearch](../prototypes/2.-livesearch.md)
 
-Livesearch voor lange lijsten miste ik heel erg in de huidige backend. Ik wilde weten wat ervoor nodig was om het zelf te bouwen.
+In de huidige situatie zijn er veel pagina's met lange lijsten waar geen Livesearch zoekfunctie bij zit. Ik wilde wat er voor nodig was om zo'n functie te bouwen en wat voor effect het op andere functies zou kunnen hebben.
 
 Aanpak: Online zoeken naar bestaande voorbeelden. Deze voorbeelden downloaden, proberen te begrijpen en vervolgens zelf na te bouwen/ aan te passen naar mijn eisen.
 
@@ -143,7 +144,7 @@ Omdat ik ontdekte dat er vaak vertalingen vanuit excel gekopieerd worden naar de
 
 ### \*\*\*\*[**7. Bulkbewerken**](../prototypes/7.-bulkbewerken.md)\*\*\*\*
 
-De functie die de ecommerce het meeste tijd gaat besparen is de mogelijkheid om meerdere producten, hoofdproducten, pagina’s, pagina-elementen etc. tegelijkertijd te bewerken. En ik was benieuwd in hoeverre dit te realiseren was voor op een webpagina. Het idee kwam van de interface die iTunes gebruikte voor het bewerken van meerdere nummers in een playlist. 
+De functie die de e-commerce het meeste tijd gaat besparen is de mogelijkheid om meerdere producten, hoofdproducten, pagina’s, pagina-elementen etc. tegelijkertijd te bewerken. En ik was benieuwd in hoeverre dit te realiseren was voor op een webpagina. Het idee kwam van de interface die iTunes gebruikte voor het bewerken van meerdere nummers in een playlist. 
 
 Methode:
 
