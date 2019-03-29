@@ -4,6 +4,10 @@ description: Nog onder constructie
 
 # Adviesrapport
 
+## Inleiding
+
+
+
 ## Hoe ik het voor me zie \(nog niet alles kan onderbouwd worden\)
 
 * Alles in Google Material style.
