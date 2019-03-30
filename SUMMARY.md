@@ -7,7 +7,7 @@
 * [Adviesrapport](adviesrapport.md)
 * [Prototypes](prototypes/README.md)
   * [Tab-structuur 80%](prototypes/tab-structuur-20.md)
-  * [Sortable form 95%](prototypes/1.-sortable-form.md)
+  * [Sortable form 95% \(geen goede aanleiding, dus misschien maar weglaten\)](prototypes/1.-sortable-form.md)
   * [Paste from excel 95%](prototypes/6.-paste-csv.md)
   * [Livesearch 95%](prototypes/2.-livesearch.md)
   * [Selectie methodes 75%](prototypes/3.-selection-methods.md)
