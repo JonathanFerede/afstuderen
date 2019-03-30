@@ -122,17 +122,7 @@ Links: Prototypes/livesearch/
 
 ### [3. Selection methods ](../prototypes/3.-selection-methods.md)
 
-Ik wilde weten in hoeverre het mogelijk was om de selectiemethodes zoals in Windows Verkenner en Finder na te maken in een html-pagina. Iedereen is bekend met het tekenen van selectiekaders, Shift + click, ctrl/cmd + click, ctrl/cmd + A, ctrl/cmd + D etc. voor het \(de\)selecteren van items in een lijst. De manier hoe gebruikers met de webversie van Google Drive kunnen werken komt hier al heel dicht in de buurt.
 
-Aanpak: Ik heb eerst online gezocht naar werkende voorbeelden van selectiemethodes in webapps. Vervolgens heb ik er een paar gedownload, aangepast en geprobeerd om te combineren.
-
-Resultaat: Ik ontdekte dat de manier van interactie zoals in Windows Verkenner en Finder tot op zekere hoogte prima te vertalen is naar een webapp. Het wordt ingewikkelder wanneer er meerdere lijsten in één pagina staan. Dit is mij nog niet gelukt, maar ik weet zeker dat het mogelijk is.
-
-Links:
-
-### \*\*\*\*[**4. Sortable and selectable**]() ****
-
-Ik was benieuwd of het sorteren en selecteren te combineren was zonder dat er rare bugs ontstaan.
 
 ### **5. Sortable and selectable and actions** 
 
@@ -143,20 +133,6 @@ Ik heb actie-knoppen toegevoegd zodat je iets kunt doen met wat je geselecteerd 
 Omdat ik ontdekte dat er vaak vertalingen vanuit excel gekopieerd worden naar de backend wilde ik uitzoeken of hier een makkelijkere manier voor was. Dus ik bouwde een feature waardoor je stukken van een tabel uit Excel kopiëren naar meerdere invoervelden op HTML pagina.
 
 ### \*\*\*\*[**7. Bulkbewerken**](../prototypes/7.-bulkbewerken.md)\*\*\*\*
-
-De functie die de e-commerce het meeste tijd gaat besparen is de mogelijkheid om meerdere producten, hoofdproducten, pagina’s, pagina-elementen etc. tegelijkertijd te bewerken. En ik was benieuwd in hoeverre dit te realiseren was voor op een webpagina. Het idee kwam van de interface die iTunes gebruikte voor het bewerken van meerdere nummers in een playlist. 
-
-Methode:
-
-Ik wilde een dynamisch systeem bouwen. Een systeem dat werkt met verschillende lijsten van objecten en dus eenvoudig op meerdere plekken implementeerbaar is. Dus ik maakte een script die een json-file uitleest en deze als een lijst toont. In deze lijst werden alle objecten \(verticaal\) met hun eigenschappen\(horizontaal\) getoond. Ik heb voor dit voorbeeld echte SKU’s met de bijbehorende productnamen gebruikt. Alle list-items heb ik selecteerbaar gemaakt met de technieken uit het prototype selectionmethods. Wanneer er op bewerken geklikt word, verschijnt er een venster met de invoervelden die bij de geselecteerde objecten horen. Wanneer de invoervelden bewerkt zijn en er op opslaan geklikt word moeten de geselecteerde objecten uit de jsonfile geüpdatet. Daarna moet de lijst opnieuw geladen omdat het anders lijkt alsof er niets gebeurd is.
-
-Resultaten:
-
-Ik leerde dat er rekening gehouden moet worden met eigenschappen van objecten die onveranderd moeten blijven. Ik bedacht me dat er veel scenario’s kunnen zijn waar voor meerdere objecten een eigenschap op BIJNA dezelfde manier ingevuld kan worden. Bijvoorbeeld een zin met één variabel woord erin. Ik leerde dat het belangrijk is om een vorm van bevestigingsfeedback te ontvangen wanneer de geselecteerde items bewerkt zijn.
-
-Links:
-
-Bestaande bulkbewerk interfaces.pdf iTunes bulk bewerk UI werkplaatsonderzoek.pdf Toepasbaarheid bulkbewerk techniek.pdf Prototypes/bulkbewerken/ Variabelen\_invoeren.pdf
 
 ### **8. Producten\_koppelen** 
 
