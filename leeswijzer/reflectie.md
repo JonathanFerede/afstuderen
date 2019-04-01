@@ -26,7 +26,7 @@ Binnen Fatboy kon niemand mij helpen met programmeren in Javascript. Er zijn twe
 
 ![](../.gitbook/assets/screenshot-2019-03-25-at-13.09.59.png)
 
-Ik heb een paar keer een gesprek aangevraagd met mijn schoolbegeleider omdat ik het overzicht van het project dreigde kwijt te raken. Maar tijdens het voorbereiden op het gesprek, werd me alles ineens weer duidelijk. De volgende keer als ik het overzicht kwijt dreig te raken, zal ik mijn voortgang weer presenteerbaar en inzichtelijk maken voor een ander. 
+Ik heb een paar keer een gesprek aangevraagd met mijn schoolbegeleider omdat ik het overzicht van het project dreigde kwijt te raken. Omdat ik tijdens de voorbereiding op deze gesprekken mijn voortgang presenteerbaar moest maken, kreeg ik het overzicht weer terug. De volgende keer zal ik dit weer toepassen wanneer ik het overzicht dreig kwijt te raken. 
 
 Ik heb zelf de balans tussen deze afstudeeropdracht en andere klusjes gemanaged. Buiten deze afstudeeropdracht heb ik veel initiatief en verantwoordelijkheid genomen met werkzaamheden waar ik graag meer ervaring in op wilde doen. Zo ben ik o.a. director, DP, cameraman, dronepiloot en editor geweest verschillende \(reclame\)video's. \(mag ik helaas nog niets van laten zien\) 
 
