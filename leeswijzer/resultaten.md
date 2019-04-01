@@ -84,9 +84,9 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       </td>
       <td style="text-align:left">
         <p></p>
-        <p>De sales afdeling maakt minder gebruik van backend. Functies die ze nodig
-          hebben werken naar verwachting. Hebben geen behoefte aan verandering of
-          extra features. <em><b>interview_sales.pdf</b></em>
+        <p>De sales afdeling maakt minder gebruik van de backend. Functies die ze
+          nodig hebben, werken naar verwachting. Ze hebben geen behoefte aan verandering
+          of extra features. <em><b>interview_sales.pdf</b></em>
         </p>
       </td>
     </tr>
@@ -94,8 +94,8 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       <td style="text-align:left">Hoe is de relatie tussen Fatboy en Kabisa?</td>
       <td style="text-align:left">Semi-gestructureerd interview met e-commerce, CEO Fatboy en Kabisa medewerker</td>
       <td
-      style="text-align:left">Het feit dat Kabisa veel zaken m.b.t. de backend altijd via Kabisa lopen
-        i.p.v. dat alles in eigen beheer is is juist gunstig. zie<em><b> Relatie_Fatboy_en_Kabisa.pdf</b></em>
+      style="text-align:left">Het feit dat veel zaken rondom de backend altijd via Kabisa lopen, in
+        plaats van dat alles in eigen beheer is, is juist gunstig. zie<em><b> Relatie_Fatboy_en_Kabisa.pdf</b></em>
         </td>
     </tr>
   </tbody>
