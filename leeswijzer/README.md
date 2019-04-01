@@ -26,8 +26,8 @@ Gedurende dit project is er gebruik gemaakt van de scrum-methode. Het project ve
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">Wk.</th>
+      <th style="text-align:center"></th>
+      <th style="text-align:center">Wk.</th>
       <th style="text-align:left"></th>
       <th style="text-align:left">Sprint</th>
       <th style="text-align:left">Bijzonderheden</th>
@@ -36,56 +36,56 @@ Gedurende dit project is er gebruik gemaakt van de scrum-methode. Het project ve
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">nov</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:center">nov</td>
+      <td style="text-align:center"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left">12 nov - 16 nov</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">1</td>
+      <td style="text-align:center">12 nov - 16 nov</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Orientatiefase</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left">19 nov - 23 nov</td>
+      <td style="text-align:center">2</td>
+      <td style="text-align:center">19 nov - 23 nov</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">3</td>
-      <td style="text-align:left">26 nov - 30 nov</td>
+      <td style="text-align:center">3</td>
+      <td style="text-align:center">26 nov - 30 nov</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">dec</td>
-      <td style="text-align:left">4</td>
+      <td style="text-align:center">dec</td>
+      <td style="text-align:center">4</td>
       <td style="text-align:left">3 dec - 7 dec</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">1e bedrijfsbezoek?</td>
       <td style="text-align:left">Planfase</td>
     </tr>
     <tr>
-      <td style="text-align:left">5</td>
-      <td style="text-align:left">10 dec - 14 dec</td>
+      <td style="text-align:center">5</td>
+      <td style="text-align:center">10 dec - 14 dec</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
         <p>Onderzoek naar gebruikers is klaar</p>
@@ -95,32 +95,32 @@ Gedurende dit project is er gebruik gemaakt van de scrum-methode. Het project ve
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">6</td>
-      <td style="text-align:left">17 dec - 21 dec</td>
+      <td style="text-align:center">6</td>
+      <td style="text-align:center">17 dec - 21 dec</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Plan van aanpak (welke verbeteringen hebben prioriteit?)</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">7</td>
-      <td style="text-align:left">24 dec - 28 dec</td>
+      <td style="text-align:center">7</td>
+      <td style="text-align:center">24 dec - 28 dec</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Kerstvakantie</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">jan</td>
-      <td style="text-align:left">8</td>
+      <td style="text-align:center">jan</td>
+      <td style="text-align:center">8</td>
       <td style="text-align:left">31 dec - 4 jan</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Kerstvakantie</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">9</td>
-      <td style="text-align:left">7 jan - 11 jan</td>
+      <td style="text-align:center">9</td>
+      <td style="text-align:center">7 jan - 11 jan</td>
       <td style="text-align:left">1</td>
       <td style="text-align:left">
         <p>Onderzoek naar hoe het invoeren en bewerken van tekst-invoervelden beter
@@ -133,16 +133,16 @@ Gedurende dit project is er gebruik gemaakt van de scrum-methode. Het project ve
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">10</td>
-      <td style="text-align:left">14 jan - 18 jan</td>
+      <td style="text-align:center">10</td>
+      <td style="text-align:center">14 jan - 18 jan</td>
       <td style="text-align:left">Sprint demo 1</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">11</td>
-      <td style="text-align:left">21 jan - 25 jan</td>
+      <td style="text-align:center">11</td>
+      <td style="text-align:center">21 jan - 25 jan</td>
       <td style="text-align:left">2</td>
       <td style="text-align:left">
         <p>Student zal voor &#xE9;&#xE9;n dag terug naar school gaan voor een tussentijdse
@@ -153,32 +153,32 @@ Gedurende dit project is er gebruik gemaakt van de scrum-methode. Het project ve
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">12</td>
-      <td style="text-align:left">28 jan - 1 feb</td>
+      <td style="text-align:center">12</td>
+      <td style="text-align:center">28 jan - 1 feb</td>
       <td style="text-align:left">Sprint demo 2</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">feb</td>
-      <td style="text-align:left">13</td>
+      <td style="text-align:center">feb</td>
+      <td style="text-align:center">13</td>
       <td style="text-align:left">4 feb - 8 feb</td>
       <td style="text-align:left">3</td>
       <td style="text-align:left">Onderzoek naar betere manier om media te selecteren</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">14</td>
-      <td style="text-align:left">11 feb - 15 feb</td>
+      <td style="text-align:center">14</td>
+      <td style="text-align:center">11 feb - 15 feb</td>
       <td style="text-align:left">Sprint demo 3</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">15</td>
-      <td style="text-align:left">18 feb - 22 feb</td>
+      <td style="text-align:center">15</td>
+      <td style="text-align:center">18 feb - 22 feb</td>
       <td style="text-align:left">4</td>
       <td style="text-align:left">Onderzoek naar de mogelijkheden van het bewerken van meerdere producten,
         hoofdproducten of pagina&#x2019;s</td>
@@ -186,16 +186,16 @@ Gedurende dit project is er gebruik gemaakt van de scrum-methode. Het project ve
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">16</td>
-      <td style="text-align:left">25 feb - 1 maa</td>
+      <td style="text-align:center">16</td>
+      <td style="text-align:center">25 feb - 1 maa</td>
       <td style="text-align:left">Sprint demo 4</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">maa</td>
-      <td style="text-align:left">17</td>
+      <td style="text-align:center">maa</td>
+      <td style="text-align:center">17</td>
       <td style="text-align:left">4 maa - 8 maa</td>
       <td style="text-align:left">5</td>
       <td style="text-align:left">
@@ -206,65 +206,61 @@ Gedurende dit project is er gebruik gemaakt van de scrum-methode. Het project ve
       <td style="text-align:left">Afronden onderzoek en eindproduct</td>
     </tr>
     <tr>
-      <td style="text-align:left">18</td>
-      <td style="text-align:left">11 maa - 15 maa</td>
+      <td style="text-align:center">18</td>
+      <td style="text-align:center">11 maa - 15 maa</td>
       <td style="text-align:left">Sprint demo 5</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">19</td>
-      <td style="text-align:left">18 maa - 22 maa</td>
+      <td style="text-align:center">19</td>
+      <td style="text-align:center">18 maa - 22 maa</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">2e bedrijfsbezoek + presentatie van eindproduct</td>
       <td style="text-align:left">Afronden eindproduct</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">20</td>
-      <td style="text-align:left">25 maa - 29 maa</td>
+      <td style="text-align:center">20</td>
+      <td style="text-align:center">25 maa - 29 maa</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">apr</td>
-      <td style="text-align:left">21</td>
+      <td style="text-align:center">apr</td>
+      <td style="text-align:center">21</td>
       <td style="text-align:left">1 apr - 5 apr</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Oplevering eindproduct</td>
       <td style="text-align:left">Afstudeerfase</td>
     </tr>
     <tr>
-      <td style="text-align:left">22</td>
-      <td style="text-align:left">8 apr - 14 apr</td>
+      <td style="text-align:center">22</td>
+      <td style="text-align:center">8 apr - 14 apr</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">23</td>
-      <td style="text-align:left">17 apr - 19 apr</td>
+      <td style="text-align:center">23</td>
+      <td style="text-align:center">17 apr - 19 apr</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">&#xB7; Portfolio/ thesis inleveren</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">x</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:center">x</td>
+      <td style="text-align:center"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left">&#xB7; Afstudeerzitting</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>| sprint | maand |
-| :--- | :--- |
-|  |  |
-
-
+</table>
 

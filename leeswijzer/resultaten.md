@@ -1,6 +1,6 @@
 # Resultaten
 
-In het [adviesrapport](../adviesrapport/) wordt gedemonstreerd a.d.h.v. visualities en werkende [prototypes](../prototypes/) hoe de huidige interface verbeterd kan worden. Elke verbetering heeft een onderbouwing, documentatie, prijsindicatie en voorspelling van de impact die het gaat hebben. 
+In het [adviesrapport](../adviesrapport/) wordt gedemonstreerd aan de hand van visualisaties en werkende [prototypes](../prototypes/) hoe de huidige interface verbeterd kan worden. Elke verbetering heeft een onderbouwing, documentatie, prijsindicatie en voorspelling van de impact die het gaat hebben. 
 
 ## **Oriëntatiefase** 
 
@@ -68,8 +68,9 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       </td>
       <td style="text-align:left">
         <p></p>
-        <p>Hoe een product gelanceerd wordt. Welke velden wel/niet ingevuld worden.
-          Waar vertalingen vandaan komen. Wat vaak mis gaat en veel tijd kost. (Interview_e-commerce.pdf)</p>
+        <p>De e-commerce afdeling maakt veel gebruik van de backend. Ze zijn verantwoordelijk
+          voor het invoeren van alle content en vertalingen die op de webshop komen.
+          De interface van de backend remt hen erg af. (Interview_e-commerce.pdf)</p>
       </td>
     </tr>
     <tr>
@@ -90,7 +91,7 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Hoe is de relatie tussen Fatboy en Kabisa</td>
+      <td style="text-align:left">Hoe is de relatie tussen Fatboy en Kabisa?</td>
       <td style="text-align:left">Semi-gestructureerd interview met e-commerce, CEO Fatboy en Kabisa medewerker</td>
       <td
       style="text-align:left">Het feit dat Kabisa veel zaken m.b.t. de backend altijd via Kabisa lopen
