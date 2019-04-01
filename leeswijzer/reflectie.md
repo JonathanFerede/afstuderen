@@ -4,11 +4,7 @@
 
 Dit project is niet geheel volgens de oorspronkelijke planning verlopen. Maar door het werken in sprints was er de mogelijkheid om te sturen. In het begin is er gezocht naar een juiste probleemstelling. Maar na het eerste bedrijfsbezoek was de richting van dit project een stuk helderder. 
 
-Na de terugkomdag in week 10 moesten veel oplossingen nog voorzien worden van een betere onderbouwing. Gelukkig was alle data er al om de benodigde conclusies te kunnen trekken.  
-
-## Over mij
-
-
+Na de terugkomdag in week 10 moesten veel oplossingen nog voorzien worden van een betere onderbouwing. Gelukkig was alle data er al om de benodigde conclusies te kunnen trekken. 
 
 ## Bewijs
 
@@ -22,7 +18,7 @@ In de volgende documenten wordt geanalyseerd.
 - Bewijs van dubbel werk.pdf  
 - Hoe is de relatie tussen Fatboy en Kabisa.pdf
 
-In het [adviesrapport](../adviesrapport/) wordt advies gegeven
+In het [adviesrapport](../adviesrapport/) wordt advies gegeven.
 
 > Mate van complexiteit van de opdracht en zelfstandigheid en eigen inbreng die de opdracht vergt.
 
@@ -30,7 +26,7 @@ Binnen Fatboy kon niemand mij helpen met programmeren in Javascript. Er zijn twe
 
 ![](../.gitbook/assets/screenshot-2019-03-25-at-13.09.59.png)
 
-Ik heb een paar keer een gesprek aangevraagd met mijn schoolbegeleider omdat ik het overzicht van het project dreigde kwijt te raken. Maar vaak tijdens het voorbereiden op het gesprek, werd me alles ineens weer duidelijk. De volgende keer als ik het overzicht kwijt dreig te raken, zal ik zo'n gesprek met mijzelf inplannen. Door de voortgang van mijn project presenteerbaar te maken voor een ander wordt het voor mijzelf ook duidelijk.
+Ik heb een paar keer een gesprek aangevraagd met mijn schoolbegeleider omdat ik het overzicht van het project dreigde kwijt te raken. Maar tijdens het voorbereiden op het gesprek, werd me alles ineens weer duidelijk. De volgende keer als ik het overzicht kwijt dreig te raken, zal ik mijn voortgang weer presenteerbaar en inzichtelijk maken voor een ander. 
 
 Ik heb zelf de balans tussen deze afstudeeropdracht en andere klusjes gemanaged. Buiten deze afstudeeropdracht heb ik veel initiatief en verantwoordelijkheid genomen met werkzaamheden waar ik graag meer ervaring in op wilde doen. Zo ben ik o.a. director, DP, cameraman, dronepiloot en editor geweest verschillende \(reclame\)video's. \(mag ik helaas nog niets van laten zien\) 
 

@@ -101,7 +101,7 @@ Gedurende de oriëntatiefase is er kwalitatief onderzoek gedaan naar het bedrijf
   </tbody>
 </table>## Ontwerpfase 
 
-Gedurende de ontwerpfase zijn er veel ideeën geschetst en uitgeprobeerd. Visuele, tastbare en interactieve ideeën spreken veel beter tot de verbeelding en zorgen voor waardevollere feedback. Deze uitwerkingen zijn in een vroeg stadium gemaakt. Dit omdat ik in voorgaande projecten vaak te lang in de conceptfase bleef hangen en daardoor in een laat stadium erachter kwam dat bepaalde ideeën in de praktijk niet gingen werken. 
+Gedurende de ontwerpfase zijn er veel ideeën geschetst en uitgeprobeerd. Visuele, tastbare en interactieve ideeën spreken veel beter tot de verbeelding en zorgen voor waardevolle feedback. Deze uitwerkingen zijn in een vroeg stadium gemaakt. Dit omdat ik in voorgaande projecten vaak te lang in de conceptfase bleef hangen en daardoor in een laat stadium erachter kwam dat bepaalde ideeën in de praktijk niet gingen werken. 
 
 IDEE: Verwijzen naar /prototypes en alleen onderzoeksmethode benoemen. 
 
