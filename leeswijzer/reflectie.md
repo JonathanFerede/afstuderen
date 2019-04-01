@@ -22,7 +22,7 @@ In de volgende documenten wordt geanalyseerd.
 - Bewijs van dubbel werk.pdf  
 - Hoe is de relatie tussen Fatboy en Kabisa.pdf
 
-In het [adviesrapport](../adviesrapport.md) wordt advies gegeven
+In het [adviesrapport](../adviesrapport/) wordt advies gegeven
 
 > Mate van complexiteit van de opdracht en zelfstandigheid en eigen inbreng die de opdracht vergt.
 
@@ -62,7 +62,7 @@ Link naar P.I.D.
 
 > Juiste afweging van belangen, mogelijkheden, kosten en baten
 
-In het [adviesrapport](../adviesrapport.md) worden mogelijkheden, kosten en baten besproken.
+In het [adviesrapport](../adviesrapport/) worden mogelijkheden, kosten en baten besproken.
 
 > Vorm en inhoud passend bij opdracht en context
 
@@ -76,7 +76,7 @@ LInks naar definitieve UI schetsen
 
 LInks naar POC prototypes
 
-In het [adviesrapport](../adviesrapport.md) worden ook ontwerpkeuzes behandeld. 
+In het [adviesrapport](../adviesrapport/) worden ook ontwerpkeuzes behandeld. 
 
 ### Realisatie
 

@@ -1,13 +1,27 @@
 ---
-description: Nog onder constructie
+description: >-
+  Dit adviesrapport behandelt alle gevonden verbeteringen voor de interface van
+  de backend van Fatboy's webshop op volgorde van verwachtte impact die ze gaan
+  hebben op de werkzaamheden van de e-commerce
 ---
 
 # Adviesrapport
 
 ## Inleiding
 
+Op de volgende pagina's wordt telkens een verbetering behandeld. Elke verbetering bevat de volgende onderdelen:
 
+* Aanleiding
+* Aanpak
+* Resultaten
+* Vervolg onderzoek
+* Impact en kosten indicatie
+* Downloads
 
+1. Bulk bewerking
+2. Presets
+3. Plakken vanuit excel
+4. 
 ## Hoe ik het voor me zie \(nog niet alles kan onderbouwd worden\)
 
 * Alles in Google Material style.
@@ -56,11 +70,11 @@ Het komt regelmatig voor dat meerdere producten allemaal voorzien moeten worden 
 
 {% tabs %}
 {% tab title="Huidige situatie" %}
-![](.gitbook/assets/ezgif-1-5b7d5ce9ce26.gif)
+![](../.gitbook/assets/ezgif-1-5b7d5ce9ce26.gif)
 {% endtab %}
 
 {% tab title="Indesign" %}
-![](.gitbook/assets/indesign_images.gif)
+![](../.gitbook/assets/indesign_images.gif)
 {% endtab %}
 {% endtabs %}
 

@@ -1,6 +1,6 @@
 # Resultaten
 
-In het [adviesrapport](../adviesrapport.md) wordt gedemonstreerd a.d.h.v. visualities en werkende [prototypes](../prototypes/) hoe de huidige interface verbeterd kan worden. Elke verbetering heeft een onderbouwing, documentatie, prijsindicatie en voorspelling van de impact die het gaat hebben. 
+In het [adviesrapport](../adviesrapport/) wordt gedemonstreerd a.d.h.v. visualities en werkende [prototypes](../prototypes/) hoe de huidige interface verbeterd kan worden. Elke verbetering heeft een onderbouwing, documentatie, prijsindicatie en voorspelling van de impact die het gaat hebben. 
 
 ## **Oriëntatiefase** 
 
@@ -128,11 +128,11 @@ Links: Prototypes/livesearch/
 
 Ik heb actie-knoppen toegevoegd zodat je iets kunt doen met wat je geselecteerd hebt.
 
-### \*\*\*\*[**6. Paste csv**](../prototypes/6.-paste-csv.md)\*\*\*\*
+### \*\*\*\*[**6. Paste csv**](../adviesrapport/6.-paste-csv.md)\*\*\*\*
 
 Omdat ik ontdekte dat er vaak vertalingen vanuit excel gekopieerd worden naar de backend wilde ik uitzoeken of hier een makkelijkere manier voor was. Dus ik bouwde een feature waardoor je stukken van een tabel uit Excel kopiëren naar meerdere invoervelden op HTML pagina.
 
-### \*\*\*\*[**7. Bulkbewerken**](../prototypes/7.-bulkbewerken.md)\*\*\*\*
+### \*\*\*\*[**7. Bulkbewerken**](../adviesrapport/7.-bulkbewerken.md)\*\*\*\*
 
 ### **8. Producten\_koppelen** 
 
