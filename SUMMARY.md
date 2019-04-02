@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introductie](README.md)
+* [Huidige situatie](huidige-situatie.md)
 * [Leeswijzer](leeswijzer/README.md)
   * [Resultaten](leeswijzer/resultaten.md)
   * [Reflectie](leeswijzer/reflectie.md)
@@ -8,6 +9,8 @@
   * [Bulk bewerken \(70%\)](adviesrapport/7.-bulkbewerken.md)
   * [Presets 50%](adviesrapport/11.-fieldset_idee.md)
   * [Paste from excel](adviesrapport/6.-paste-csv.md)
+  * [Media selecteren 10%](adviesrapport/media-selecteren-10.md)
+  * [Easy fixes](adviesrapport/easy-fixes.md)
 * [Prototypes](prototypes/README.md)
   * [Tab-structuur 80%](prototypes/tab-structuur-20.md)
   * [Sortable form 95% \(geen goede aanleiding, dus misschien maar weglaten\)](prototypes/1.-sortable-form.md)

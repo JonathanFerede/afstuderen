@@ -2,9 +2,7 @@
 
 ## Verloop van dit project
 
-Dit project is niet geheel volgens de oorspronkelijke planning verlopen. Maar door het werken in sprints was er de mogelijkheid om te sturen. In het begin is er gezocht naar een juiste probleemstelling. Maar na het eerste bedrijfsbezoek was de richting van dit project een stuk helderder. 
-
-Na de terugkomdag in week 10 moesten veel oplossingen nog voorzien worden van een betere onderbouwing. Gelukkig was alle data er al om de benodigde conclusies te kunnen trekken. 
+Dit project is niet geheel volgens de oorspronkelijke planning verlopen. Maar door het werken in sprints was er de mogelijkheid om te sturen. In het begin is er gezocht naar een juiste probleemstelling. Maar na het eerste bedrijfsbezoek was de richting van dit project een stuk helderder. Na de terugkomdag in week 10 moesten veel oplossingen nog voorzien worden van een betere onderbouwing. Gelukkig was er genoeg data om de benodigde conclusies te kunnen trekken. 
 
 ## Bewijs
 
@@ -12,7 +10,7 @@ Na de terugkomdag in week 10 moesten veel oplossingen nog voorzien worden van ee
 
 > Kennis en inzicht met juiste breedte en diepte van de ICT life cycle fases: beheer, analyse, advies, ontwerp en realisatie
 
-In het [P.I.D.](https://github.com/JonathanFerede/afstuderen/blob/master/.gitbook/assets/p.i.d._v6.pdf) wordt breedte en diepte van dit project beschreven. 
+In het [P.I.D.](https://github.com/JonathanFerede/afstuderen/blob/master/.gitbook/assets/p.i.d._v6.pdf) wordt de breedte en diepte van dit project beschreven. 
 
 In de volgende documenten wordt geanalyseerd.   
 - Bewijs van dubbel werk.pdf  
@@ -62,7 +60,7 @@ In het [adviesrapport](../adviesrapport/) worden mogelijkheden, kosten en baten 
 
 > Vorm en inhoud passend bij opdracht en context
 
-Het adviesrapport met de bijbehorende prototypes zijn uiteindelijk opgeleverd. Dit sluit aan op wat er in het P.I.D. staat. Hierin wordt de context geschetst en m.b.v. de Moscow-methode de eisen opdracht beschreven.
+Het adviesrapport met de bijbehorende prototypes zijn uiteindelijk opgeleverd. Dit sluit aan op wat er in het P.I.D. staat. Hierin wordt de context geschetst en met behulp van de Moscow-methode de eisen opdracht beschreven.
 
 ### Ontwerp
 
@@ -78,7 +76,7 @@ In het [adviesrapport](../adviesrapport/) worden ook ontwerpkeuzes behandeld.
 
 > Aansluitend bij ontwerp
 
-In de documentatie die met de POC's word meegeleverd staat omschreven hoe de implementatie werkt. 
+In de documentatie die met de POC's word meegeleverd, staat omschreven hoe de implementatie werkt. 
 
 > In omvang en kwaliteit passend bij de probleemdefinitie en context
 
@@ -88,11 +86,11 @@ In het ~~P.I.D.~~ staan de eisen aan deze opdracht beschreven. In het adviesrapp
 
 > Stelt vanuit een ongestructureerd praktijkprobleem juiste onderzoeksvragen en deelvragen op, in alle fasen van methodisch werken
 
-In het ~~P.I.D.~~ is de probleemanalyse met de daarbij hordende onderzoeksvragen en methoden terug te lezen.
+In het ~~P.I.D.~~ is de probleemanalyse met de daarbij horende onderzoeksvragen en methoden terug te lezen.
 
 > Selecteert zelfstandig onderzoeksmethoden, voert deze uit en verantwoordt dit met verwijzing naar de onderzoeksstrategieën
 
-In het P.I.D. staat beschreven welke onderzoeksvragen en daarbijhorende onderzoeksmethoden gebruikt zijn. 
+In het P.I.D. staat beschreven welke onderzoeksvragen en daarbij horende onderzoeksmethoden gebruikt zijn. 
 
 > Betrekt sociaal maatschappelijke, internationale, wetenschappelijke en ethische aspecten bij oordeelsvorming
 
