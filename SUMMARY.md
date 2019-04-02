@@ -14,8 +14,6 @@
   * [Selectie methodes 75%](adviesrapport/3.-selection-methods.md)
   * [Media selecteren 10%](adviesrapport/media-selecteren-10.md)
   * [Tab-structuur 80%](adviesrapport/tab-structuur-20.md)
-  * [Easy fixes \(1%\)](adviesrapport/easy-fixes.md)
-  * [Ontwerp](adviesrapport/ontwerp.md)
 * [Prototypes](prototypes/README.md)
   * [Sortable form 95% \(geen goede aanleiding, dus misschien maar weglaten\)](prototypes/1.-sortable-form.md)
 * [Bijlages](bijlages.md)

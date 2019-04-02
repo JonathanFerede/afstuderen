@@ -13,7 +13,7 @@ Dit project is niet geheel volgens de oorspronkelijke planning verlopen. Maar do
 In het [P.I.D.](../bijlages.md) wordt de breedte en diepte van dit project beschreven.   
 Analyse: [Bewijs van dubbel werk.pdf](../bijlages.md)  
 Advies: [Adviesrapport](../adviesrapport/)   
-Ontwerp: [Adviesrapport/ontwerp](../adviesrapport/ontwerp.md)  
+Ontwerp: [Adviesrapport/ontwerp]()  
 Realisatie: 
 
 > Mate van complexiteit van de opdracht en zelfstandigheid en eigen inbreng die de opdracht vergt.
