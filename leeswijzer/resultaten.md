@@ -165,11 +165,7 @@ met presets Presets gebruiken bij het bewerken van meerdere items. \(nog niet ge
 
 ## Lab fase
 
-Na terugkomdag veel labonderzoek gedaan om problemen te analyseren en oplossingen te onderbouwen. 1. Bewijs van dubbel werk
-
-3.4.1.4 Verificatie fase Toetsen en testen
-
-3.4.2 Resultaten en toegevoegde waarde
+Na terugkomdag veel labonderzoek gedaan om problemen te analyseren en oplossingen te onderbouwen.  [bewijs van dubbel werk](../bijlages.md)
 
 ## 
 
