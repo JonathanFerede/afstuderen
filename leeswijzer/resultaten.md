@@ -109,7 +109,7 @@ IDEE: Verwijzen naar /prototypes en alleen onderzoeksmethode benoemen.
 
 De volgorde van ingevoerde invoervelden veranderen door drag ’n drop. Ik bedacht dat dit wel van pas zou kunnen komen bij het verbeteren van vertaaltabellen.
 
-### [2. Livesearch](../prototypes/2.-livesearch.md)
+### [2. Livesearch](../adviesrapport/2.-livesearch.md)
 
 In de huidige situatie zijn er veel pagina's met lange lijsten waar geen Livesearch zoekfunctie bij zit. Ik wilde wat er voor nodig was om zo'n functie te bouwen en wat voor effect het op andere functies zou kunnen hebben.
 
@@ -121,7 +121,7 @@ Terwijl ik het aan het bouwen was bedacht ik dat het handig zou kunnen zijn om e
 
 Links: Prototypes/livesearch/
 
-### [3. Selection methods ](../prototypes/3.-selection-methods.md)
+### [3. Selection methods ](../adviesrapport/3.-selection-methods.md)
 
 
 
