@@ -2,7 +2,7 @@
 
 ## Verloop van dit project
 
-Dit project is niet geheel volgens de oorspronkelijke planning verlopen. Maar door het werken in sprints was er de mogelijkheid om te sturen. In het begin is er gezocht naar een juiste probleemstelling. Maar na het eerste bedrijfsbezoek was de richting van dit project een stuk helderder. Na de terugkomdag in week 10 moesten veel oplossingen nog voorzien worden van een betere onderbouwing. Gelukkig was er genoeg data om de benodigde conclusies te kunnen trekken. 
+Dit project is niet geheel volgens de oorspronkelijke planning verlopen. Maar door het werken in sprints was er de mogelijkheid om te sturen. In het begin is er gezocht naar een juiste probleemstelling. Na het eerste bedrijfsbezoek was de richting van dit project helder. De terugkomdag in week 10 wees me op het feit dat veel oplossingen nog voorzien moesten worden van een betere onderbouwing. Gelukkig was er genoeg data om de benodigde conclusies te kunnen trekken. 
 
 ## Bewijs
 
@@ -10,23 +10,23 @@ Dit project is niet geheel volgens de oorspronkelijke planning verlopen. Maar do
 
 > Kennis en inzicht met juiste breedte en diepte van de ICT life cycle fases: beheer, analyse, advies, ontwerp en realisatie
 
-In het [P.I.D.](https://github.com/JonathanFerede/afstuderen/blob/master/.gitbook/assets/p.i.d._v6.pdf) wordt de breedte en diepte van dit project beschreven. 
-
-In de volgende documenten wordt geanalyseerd.   
-- Bewijs van dubbel werk.pdf  
-- Hoe is de relatie tussen Fatboy en Kabisa.pdf
-
-In het [adviesrapport](../adviesrapport/) wordt advies gegeven.
+In het [P.I.D.](../bijlages.md) wordt de breedte en diepte van dit project beschreven.   
+Analyse: [Bewijs van dubbel werk.pdf](../bijlages.md)  
+Advies: [Adviesrapport](../adviesrapport/)   
+Ontwerp: [Adviesrapport/ontwerp](../adviesrapport/ontwerp.md)  
+Realisatie: 
 
 > Mate van complexiteit van de opdracht en zelfstandigheid en eigen inbreng die de opdracht vergt.
 
-Binnen Fatboy kon niemand mij helpen met programmeren in Javascript. Er zijn twee momenten geweest dat ik vast liep en ik hulp aan school heb gevraagd. Maar voor het zover was had ik het probleem zelf al opgelost. 
+**Complexiteit**  
+Deze opdracht vroeg voor technisch werkende prototypes en het herstructureren en uitlezen van complexe data. Binnen Fatboy kon niemand mij helpen met programmeren. Er zijn twee momenten geweest dat ik vast liep en ik hulp aan school heb gevraagd. Maar voor het zover was had ik het probleem zelf al opgelost. 
 
 ![](../.gitbook/assets/screenshot-2019-03-25-at-13.09.59.png)
 
+**Zelfstandigheid**  
 Ik heb een paar keer een gesprek aangevraagd met mijn schoolbegeleider omdat ik het overzicht van het project dreigde kwijt te raken. Omdat ik tijdens de voorbereiding op deze gesprekken mijn voortgang presenteerbaar moest maken, kreeg ik het overzicht weer terug. De volgende keer zal ik dit weer toepassen wanneer ik het overzicht dreig kwijt te raken. 
 
-Ik heb zelf de balans tussen deze afstudeeropdracht en andere klusjes gemanaged. Buiten deze afstudeeropdracht heb ik veel initiatief en verantwoordelijkheid genomen met werkzaamheden waar ik graag meer ervaring in op wilde doen. Zo ben ik o.a. director, DP, cameraman, dronepiloot en editor geweest verschillende \(reclame\)video's. \(mag ik helaas nog niets van laten zien\) 
+Verder heb ik zelf de balans tussen deze afstudeeropdracht en andere klusjes beheerd. Buiten deze afstudeeropdracht heb ik veel initiatief en verantwoordelijkheid genomen met werkzaamheden waar ik graag meer ervaring in op wilde doen. Zo ben ik o.a. director, DP, cameraman, dronepiloot en editor geweest verschillende \(reclame\)video's. \(mag ik helaas nog niets van laten zien\) 
 
 ### Beheer
 
@@ -34,7 +34,7 @@ Ik heb zelf de balans tussen deze afstudeeropdracht en andere klusjes gemanaged.
 
 De werkwijze en tooling staan beschreven in het ~~P.I.D.~~
 
-Verder heb ik de [prototypes](../prototypes/) zo gecodeerd dat ze dynamisch inzetbaar zijn en naast elkaar functioneren. 
+Verder heb ik de [prototypes](../bijlages.md#prototypes) zo gecodeerd dat ze dynamisch inzetbaar zijn en naast elkaar functioneren. 
 
 Tot slot heb ik buiten dit project om ook verstandige keuzes gemaakt in tooling en werkwijze. Dit is terug te zien in mijn workflow \(van script tot exporteren\), filemanagement, distributie, versiebeheer met video's. 
 
@@ -80,25 +80,27 @@ In de documentatie die met de POC's word meegeleverd, staat omschreven hoe de im
 
 > In omvang en kwaliteit passend bij de probleemdefinitie en context
 
-In het ~~P.I.D.~~ staan de eisen aan deze opdracht beschreven. In het adviesrapport worden alle veranderingen beschreven en onderbouwd.
+In het [P.I.D.](../bijlages.md) staan de eisen aan deze opdracht beschreven. In het adviesrapport worden alle veranderingen beschreven en onderbouwd.
 
 ### Oordeelsvorming
 
 > Stelt vanuit een ongestructureerd praktijkprobleem juiste onderzoeksvragen en deelvragen op, in alle fasen van methodisch werken
 
-In het ~~P.I.D.~~ is de probleemanalyse met de daarbij horende onderzoeksvragen en methoden terug te lezen.
+In het [P.I.D.](../bijlages.md) is de probleemanalyse met de daarbij horende onderzoeksvragen en methoden terug te lezen.
 
 > Selecteert zelfstandig onderzoeksmethoden, voert deze uit en verantwoordt dit met verwijzing naar de onderzoeksstrategieën
 
-In het P.I.D. staat beschreven welke onderzoeksvragen en daarbij horende onderzoeksmethoden gebruikt zijn. 
+In het [P.I.D.](../bijlages.md) staat beschreven welke onderzoeksvragen en daarbij horende onderzoeksmethoden gebruikt zijn. 
 
 > Betrekt sociaal maatschappelijke, internationale, wetenschappelijke en ethische aspecten bij oordeelsvorming
 
-Ik heb niet klakkeloos dingen aangenomen uit interviews... \(waar is dat terug te zien???\)
+Sociaal maatschappelijk:
 
-Mijn oplossing is niet alleen geschikt voor Rick... \(waar is dat terug te zien???\)
+Internationaal:
 
-Advies over situatie Fatboy tussen Kabisa??? \(Na interview met Tom e-commerce realiseerde ik me dat de situatie met Kabisa eigenlijk wel handig was.\)
+Wetenschappelijk:
+
+Ethisch:
 
 ### Communicatie
 
@@ -116,7 +118,7 @@ Er was geen sprake van echte samenwerking gedurende deze opdracht. Alle onderzoe
 
 Zelfstandigheid is een van mijn talenten. Dit is terug te zien in hoe ik alle problemen tijdens programmeren  zonder hulp opgelost heb. 
 
-Mijn technisch inzicht is terug te zien in hoe ik het mijzelf makkelijk heb gemaakt door alle [prototypes](../prototypes/) zo te maken dat ze naast elkaar kunnen functioneren. Consistentie in bestandsstructuur, opbouw van scripts, benamingen van variabelen en commentaar in de code zorgden voor overzicht en gemak bij implementatie.
+Mijn technisch inzicht is terug te zien in hoe ik het mijzelf makkelijk heb gemaakt door alle [prototypes](../bijlages.md#prototypes) zo te maken dat ze naast elkaar kunnen functioneren. Consistentie in bestandsstructuur, opbouw van scripts, benamingen van variabelen en commentaar in de code zorgden voor overzicht en gemak bij implementatie.
 
 > Betrekt zelfreflectie en ontvangen feedback op het eigen functioneren in het ICT beroep.
 
