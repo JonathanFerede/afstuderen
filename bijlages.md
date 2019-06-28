@@ -1,5 +1,11 @@
 # Bijlages
 
+Lijst met bijlage links hieronder. Plaats bijlages via Github in .../assets/pdfs/...
+
+* P.I.D. Project Initiation Document...
+* 
+
+
 {% file src=".gitbook/assets/p.i.d.\_v6.pdf" caption="P.I.D." %}
 
 {% file src=".gitbook/assets/bulk-bewerken-met-variabelen.pdf" caption="Bulk bewerken met variabelen" %}
